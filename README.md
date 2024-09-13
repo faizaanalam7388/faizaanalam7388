@@ -17,3 +17,6 @@ Hi, I’m @faizaanalam7388<br>- 👀 I’m interested in Web Developing<br>- �
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/faizaanalam7388/faizaanalam7388/output/github-contribution-grid-snake-dark.svg)
