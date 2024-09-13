@@ -19,21 +19,3 @@ Hi, I’m @faizaanalam7388<br>- 👀 I’m interested in Web Developing<br>- �
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
-name: Generate snake animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - master
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
