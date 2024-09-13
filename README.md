@@ -11,6 +11,7 @@ Hi, I’m @faizaanalam7388<br>- 👀 I’m interested in Web Developing<br>- �
 ![](https://github-readme-stats.vercel.app/api?username=faizaanalam7388&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=faizaanalam7388&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizaanalam7388&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=faizaanalam7388&theme=github">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=faizaanalam7388&theme=radical&no-frame=false&no-bg=true&margin-w=4)
