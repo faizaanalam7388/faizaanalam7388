@@ -73,11 +73,77 @@ Hi, I'm **Faizaan Alam** 👋
 
 # 🧠 Currently Learning
 
-```text
-C++              ███████████████░░░
-Java              ████████████░░░░░░
-JavaScript        ███████████░░░░░░░
-HTML & CSS        ███████████████░░░
-Web Development   ██████████░░░░░░░░
-Data Structures   ████████████░░░░░░
-Algorithms        ██████████░░░░░░░░
+- 💻 C++ & Data Structures
+- ☕ Java Programming
+- ⚡ JavaScript
+- 🌐 Full-Stack Web Development
+- 🗄️ Databases & Backend Development
+- 🧩 Algorithms & Problem Solving
+- 🚀 Software Development
+
+---
+
+# 🚀 What I'm Working On
+
+- 🌐 Web Development Projects
+- 💻 C++ & Competitive Programming
+- ☕ Java Applications
+- ⚡ JavaScript Projects
+- 🗄️ Database Applications
+- 🤖 Software & Automation Projects
+- 🌱 Open Source Projects
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=faizaanalam7388&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
+
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=faizaanalam7388&theme=onedark&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizaanalam7388&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=faizaanalam7388&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+# 📈 GitHub Activity
+
+[![Faizaan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizaanalam7388&theme=tokyo-night)](https://github.com/faizaanalam7388)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+# 🐍 Feeding...
+
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🤝 Let's Connect
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+<em>
+<b>I genuinely enjoy connecting with new people</b>
+so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> 😊
+</em>
+
+---
+
+⭐ **If you find my projects interesting, consider giving them a star!**
+
+💙 Thanks for visiting my profile!
