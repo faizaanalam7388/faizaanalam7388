@@ -109,12 +109,6 @@ Hi, I'm **Faizaan Alam** 👋
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=faizaanalam7388&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 # 📈 GitHub Activity
 
 [![Faizaan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizaanalam7388&theme=tokyo-night)](https://github.com/faizaanalam7388)
