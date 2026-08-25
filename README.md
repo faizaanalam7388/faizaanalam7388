@@ -3,18 +3,19 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="faizaanalam7388's GitHub profile" src="dark_mode.svg" />
 </picture>
+
+
 # 💫 About Me
 
 Hi, I'm **Faizaan Alam** 👋
 
 🎓 Computer Science & Engineering Undergraduate  
-💻 Passionate about **Web Development & Software Development**  
-🌱 Currently learning **C++, Java, JavaScript & Full-Stack Web Development**  
-🚀 Interested in building practical, user-friendly and scalable applications  
-🤝 Open to collaborating on **Web Development & Open Source Projects**  
-💡 Always learning, building and improving one project at a time
+💻 Exploring **Web Development, Software Development & AI**  
+🧩 Enjoy solving problems and building practical applications  
+🚀 Currently working on personal projects and improving my development skills  
+🤝 Open to **Web Development & Open Source collaborations**
 
-📫 **Email:** faizaanalam1980@gmail.com
+📫 **Email:** [faizaanalam1980@gmail.com](mailto:faizaanalam1980@gmail.com)
 
 ---
 
