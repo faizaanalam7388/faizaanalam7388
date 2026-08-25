@@ -3,7 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="faizaanalam7388's GitHub profile" src="dark_mode.svg" />
 </picture>
-
 # 💫 About Me
 
 Hi, I'm **Faizaan Alam** 👋
