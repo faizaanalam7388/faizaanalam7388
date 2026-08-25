@@ -117,8 +117,13 @@ Hi, I'm **Faizaan Alam** 👋
 
 # 📈 GitHub Activity
 
-[![Faizaan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faizaanalam7388&theme=tokyo-night)](https://github.com/faizaanalam7388)
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=faizaanalam7388&theme=github-compact&hide_border=true"
+    alt="Faizaan's GitHub Activity Graph"
+    width="100%"
+  />
+</p>
 ---
 
 ### ✍️ Random Dev Quote
